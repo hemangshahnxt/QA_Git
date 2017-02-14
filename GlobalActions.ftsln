@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "GlobalPracticeActions", "GlobalPracticeActions\Test.tsp", "AD684C46-46EC-40D5-865C-701F8B51EF92"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\code\trunk\QA\UFT\Solutions\GlobalPracticeActions\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		AD684C46-46EC-40D5-865C-701F8B51EF92.Debug|Any CPU.Build.0 = Debug|Any CPU
+		AD684C46-46EC-40D5-865C-701F8B51EF92.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		AD684C46-46EC-40D5-865C-701F8B51EF92.Release|Any CPU.Build.0 = Release|Any CPU
+		AD684C46-46EC-40D5-865C-701F8B51EF92.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "VoidAndCorrectComplexBill01", "VoidAndCorrectComplexBill01\Test.tsp", "724A6DA7-B635-4ECC-9EF9-AF8B4F8F0AC3"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\code\trunk\QA\UFT\Solutions\VoidAndCorrectComplexBill01\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		724A6DA7-B635-4ECC-9EF9-AF8B4F8F0AC3.Debug|Any CPU.Build.0 = Debug|Any CPU
+		724A6DA7-B635-4ECC-9EF9-AF8B4F8F0AC3.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		724A6DA7-B635-4ECC-9EF9-AF8B4F8F0AC3.Release|Any CPU.Build.0 = Release|Any CPU
+		724A6DA7-B635-4ECC-9EF9-AF8B4F8F0AC3.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(Function Libraries) = postProject
+		PracticeFunctionLibrary = PracticeFunctionLibrary.qfl
+	EndGlobalSection
+EndGlobal
